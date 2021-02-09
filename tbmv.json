@@ -271,6 +271,113 @@
       "Jazz": ["V", "VX", "V CVT", "ZX", "VX CVT", "ZX CVT"],
       "All New City": ["V", "V CVT", "VX", "ZX", "VX CVT", "ZX CVT"]
     },
+    "Maruti Suzuki": {
+      "Swift": [
+        "LXi",
+        "VXi",
+        "VXi AMT",
+        "ZXi",
+        "ZXi AMT",
+        "ZXi Plus",
+        "ZXi Plus AMT"
+      ],
+      "Baleno": [
+        "Sigma",
+        "Delta",
+        "Zeta",
+        "Delta Dualjet",
+        "Delta Automatic",
+        "Alpha",
+        "Zeta Dualjet",
+        "Zeta Automatic",
+        "Alpha Automatic"
+      ],
+      "Ertiga": [
+        "LXi",
+        "VXi",
+        "VXi CNG",
+        "ZXi",
+        "VXi AT",
+        "ZXi Plus",
+        "ZXi AT"
+      ],
+      "Alto": [
+        "STD",
+        "STD (O)",
+        "LXi",
+        "LXi (O)",
+        "VXi",
+        "VXi Plus",
+        "LXi CNG",
+        "LXi (O) CNG"
+      ],
+      "Vitara Brezza": [
+        "LXi",
+        "VXi",
+        "ZXi",
+        "ZXi Plus",
+        "VXi AT SHVS",
+        "ZXI Plus Dual Tone",
+        "ZXi AT SHVS",
+        "ZXi Plus AT SHVS",
+        "ZXI Plus AT Dual Tone"
+      ],
+      "Dzire": [
+        "LXi",
+        "VXi",
+        "VXi AGS",
+        "ZXi",
+        "ZXi AGS",
+        "ZXi Plus",
+        "ZXi Plus AGS"
+      ],
+      "Wagon R": [
+        "LXi 1.0",
+        "LXi (O) 1.0",
+        "R VXi 1.0",
+        "R VXi (O) 1.0",
+        "VXi 1.2",
+        "VXi (O) 1.2",
+        "LXi 1.0 CNG",
+        "VXi 1.0 AMT",
+        "LXi (O) 1.0 CNG",
+        "VXi (O) 1.0 AMT",
+        "ZXi 1.2",
+        "VXi 1.2 AMT",
+        "VXi (O) 1.2 AMT",
+        "ZXi 1.2 AMT"
+      ],
+      "Celerio": [
+        "LXi",
+        "LXi (O)",
+        "VXi",
+        "VXi (O)",
+        "ZXi",
+        "VXi AMT",
+        "VXi (O) AMT",
+        "ZXi (Opt)",
+        "ZXi AMT",
+        "ZXi (O) AMT",
+        "VXi CNG",
+        "VXi (O) CNG"
+      ],
+      "S-Presso": [
+        "Std",
+        "Std (O)",
+        "Lxi",
+        "LXi (O)",
+        "Vxi",
+        "Vxi (O)",
+        "Vxi Plus",
+        "Vxi AMT",
+        "Vxi (O) AMT",
+        "Lxi CNG",
+        "Lxi (O) CNG",
+        "Vxi Plus AMT",
+        "Vxi CNG",
+        "Vxi (O) CNG"
+      ]
+    },
 
     "Mercedes-Benz": {
       "C-Class": [
