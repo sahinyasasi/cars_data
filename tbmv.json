@@ -24,7 +24,7 @@
         "SX 1.5 Automatic",
         "SX (O) CVT",
         "SX 1.4 Turbo 7 DCT",
-        "SX 1.4 Turbo 7 DCT Dual Tone ",
+        "SX 1.4 Turbo 7 DCT Dual Tone",
         "SX (O) 1.5 Automatic",
         "SX (O) 1.4 Turbo 7 DCT",
         "SX (O) 1.4 Turbo 7 DCT Dual Tone"
@@ -57,7 +57,7 @@
       ],
       "Grand i10": ["Magna 1.2 Kappa VTVT", "Sportz 1.2 Kappa VTVT"],
       "Venue": [
-        "E 1.2 ",
+        "E 1.2",
         "S 1.2",
         "E 1.5 CRDi",
         "S Plus 1.2",
@@ -93,12 +93,12 @@
         "Sportz U2 1.2 CRDi",
         "Asta AMT 1.2 Kappa VTVT",
         "Sportz 1.0 Turbo GDi",
-        "Sportz 1.0 Turbo GDi Dual Tone ",
+        "Sportz 1.0 Turbo GDi Dual Tone",
         "Sportz AMT 1.2 CRDi",
         "Asta U2 1.2 CRDi",
         "Magna Corporate Edition U2 1.2 CRDi"
       ],
-      " Elantra": [
+      "Elantra": [
         "2.0 SX MT",
         "1.5 SX MT",
         "2.0 SX AT",
@@ -119,16 +119,16 @@
         "Asta AMT"
       ],
       "Tucson": ["GL (O) 2WD", "GLS 2WD", "GLS 4WD"],
-      " Aura ": [
+      "Aura": [
         "E 1.2",
         "S 1.2",
         "S 1.2 AMT",
-        "SX 1.2 ",
+        "SX 1.2",
         "S 1.2 CRDi",
-        "SX 1.2 (O) ",
+        "SX 1.2 (O)",
         "SX Plus 1.2 AMT",
         "S 1.2 AMT CRDi",
-        "SX Plus 1.0 ",
+        "SX Plus 1.0",
         "SX 1.2 (O) CRDi",
         "SX Plus 1.2 AMT CRDi"
       ]
@@ -164,7 +164,7 @@
         "1.2 W8 (Optional Pack Dual Tone)",
         "1.5 W8 AMT",
         "1.5 W8 (O)",
-        "1.5 W8 (Optional Pack Dual Tone) ",
+        "1.5 W8 (Optional Pack Dual Tone)",
         "1.5 W8 (O) AMT"
       ],
       "e2o PLUS": ["P4", "P6"],
@@ -183,7 +183,7 @@
       ],
       "S90": ["D4 Inscription"],
       "XC60": ["D5 Inscription"],
-      "V90 Cross Country": ["D5 Inscription "]
+      "V90 Cross Country": ["D5 Inscription"]
     },
     "Skoda": {
       "Octavia": ["RS 245"],
@@ -251,11 +251,11 @@
         "1.2 V MT",
         "1.5 E MT",
         "1.2 S CVT",
-        "1.2 S CVT Special Edition ",
+        "1.2 S CVT Special Edition",
         "Exclusive Edition",
         "1.2 VX MT",
         "1.5 S MT",
-        "1.5 S MT Special Edition ",
+        "1.5 S MT Special Edition",
         "1.2 V CVT",
         "1.5 V MT",
         "1.2 VX CVT",
@@ -323,7 +323,7 @@
       "E-Class All Terrain": ["E 220d 4MATIC"]
     }
   },
-  "Bikes": {
+  "bikes": {
     "TVS": [
       "Apache RTR 160",
       "Apache RR 310",
