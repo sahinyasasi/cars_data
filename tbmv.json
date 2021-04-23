@@ -2,18 +2,15 @@
   "cars": {
     "Hyundai": {
       "Verna": [
-        "E 1.5 VTVT",
-        "S 1.5 VTVT",
-        "S Plus 1.5 CRDi",
-        "SX 1.5 VTVT",
-        "SX 1.5 VTVT IVT",
-        "SX 1.5 CRDi",
-        "SX (O)1.5 VTVT",
-        "SX 1.5 CRDi AT",
-        "SX (O) 1.5 VTVT IVT",
-        "SX (O) 1.5 CRDi",
-        "SX (O) 1.0 Turbo DCT",
-        "SX (O) 1.5 CRDi AT"
+        "E 1.5",
+        "S 1.5",
+        "S Plus 1.5",
+        "SX 1.5",
+        "SX 1.5 IVT",
+        "SX (O)1.5",
+
+        "SX (O) 1.5 IVT",
+        "SX (O) 1.0 Turbo DCT"
       ],
       "Creta": [
         "E 1.5",
@@ -54,7 +51,7 @@
         "Asta (O) 1.0 Turbo DCT",
         "Asta (O) 1.0 Turbo DCT Dual Tone"
       ],
-      "Grand i10": ["Magna 1.2 Kappa VTVT", "Sportz 1.2 Kappa VTVT"],
+      "Grand i10": ["Magna 1.2 Kappa", "Sportz 1.2 Kappa"],
       "Venue": [
         "E 1.2",
         "S 1.2",
@@ -77,19 +74,19 @@
         "Sport SX Plus 1.0 Turbo DCT"
       ],
       "Grand i10 Nios": [
-        "Era 1.2 Kappa VTVT",
-        "Magna 1.2 Kappa VTVT",
-        "Magna Corporate Edition 1.2 Kappa VTVT",
-        "Sportz 1.2 Kappa VTVT",
-        "Magna 1.2 Kappa VTVT",
-        "Sportz 1.2 Kappa VTVT Dual Tone",
-        "Magna U2 1.2 CRDi",
-        "Asta 1.2 Kappa VTVT",
-        "Sportz U2 1.2 CRDi",
+        "Era 1.2 Kappa",
+        "Magna 1.2 Kappa",
+        "Magna Corporate Edition 1.2 Kappa",
+        "Sportz 1.2 Kappa",
+
+        "Sportz 1.2 Kappa Dual Tone",
+        "Magna U2 1.2",
+        "Asta 1.2 Kappa",
+        "Sportz U2 1.2",
         "Sportz 1.0 Turbo GDi",
         "Sportz 1.0 Turbo GDi Dual Tone",
-        "Asta U2 1.2 CRDi",
-        "Magna Corporate Edition U2 1.2 CRDi"
+        "Asta U2 1.2",
+        "Magna Corporate Edition U2 1.2"
       ],
       "Elantra": ["2.0 SX", "1.5 SX", "2.0 SX (O)", "1.5 SX (O)"],
       "Santro": [
